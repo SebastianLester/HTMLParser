@@ -121,3 +121,6 @@ $RECYCLE.BIN/
 # Rider run configurations
 .idea/.idea_*.xml
 /Properties/launchSettings.json
+
+# ── Allow bin folder even though [Bb]in/ is ignored above
+!/[Bb]in/
