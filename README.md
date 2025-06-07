@@ -12,4 +12,4 @@ Setup your debugger to input the html path:
 1. Go to Debug
 1. Add `FULLHTML.html` as a command-line argument
 
-This is because this a CLI app that takes the first argument as a file path to an HTML file that it expects to exist and parse.
+This is because this is a CLI app that takes the first argument as a file path to an HTML file that it expects to exist and parse.
